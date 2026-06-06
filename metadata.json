@@ -1,0 +1,6 @@
+{
+  "name": "MedCare",
+  "description": "ระบบเครื่องป้อนยาอัตโนมัติและแอปพลิเคชันดูแลการรับประทานยาสำหรับผู้สูงอายุและผู้ดูแล (MedCare Smart Pill Dispenser App)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
